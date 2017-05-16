@@ -1,0 +1,16 @@
+
+README
+
+This is a (mostly) functional chess game that operates from the command line!
+The missing rule in this current implementation is en passant.
+
+Input moves as "Square1 [space] Square2".
+If an invalid move is specified, it will request another.
+
+
+Further optimizations can be made, however this barebones implementation
+has passed some extensive testing.
+
+This was ran and tested inside of the Intellij IDE.
+
+Language is Java.
