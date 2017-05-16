@@ -7,11 +7,10 @@ The missing rule in this current implementation is en passant.
 Input moves as "Square1 [space] Square2".
 If an invalid move is specified, it will say so, and you may input another.
 
-Further optimizations can be made, however this barebones implementation
-has passed some extensive testing.
+Fairly extensively tested.
 
 This was ran and tested inside of the Intellij IDE.
 
 Language is Java.
 
-A GUI was attempted, but as of now was unsuccessful.
+A GUI later to come.
