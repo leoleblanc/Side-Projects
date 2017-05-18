@@ -11,3 +11,5 @@ This was ran and tested inside of the Intellij IDE.
 Language is Java.
 
 A GUI later to come.
+
+TODO: Clean up Repo to only use the production folder, as that is where all the code is and is therefore what is relevant.
