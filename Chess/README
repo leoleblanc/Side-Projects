@@ -1,6 +1,3 @@
-
-# Project Description
-
 This is a (mostly) functional chess game that operates from the command line!
 The missing rule in this current implementation is en passant.
 
